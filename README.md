@@ -131,7 +131,7 @@ CoffeeCodeBox
 https://github.com/CoffeeCodeBox
 
 Amir Mahdi Barati  
-GitHub: https://github.com/Amir-Mahdi-Barati 
+https://github.com/Amir-Mahdi-Barati 
 
 Mohammadreza Sadeghi 
 https://github.com/devmrsad
