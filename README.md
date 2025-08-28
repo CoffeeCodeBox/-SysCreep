@@ -130,7 +130,7 @@ Full license available in LICENSE file.
 CoffeeCodeBox
 https://github.com/CoffeeCodeBox
 
-Amir Mahdi Barati  
+Amir Mahdi Barati
 https://github.com/Amir-Mahdi-Barati 
 
 Mohammadreza Sadeghi 
